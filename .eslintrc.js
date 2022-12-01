@@ -10,6 +10,7 @@ module.exports = {
     "plugin:vue/vue3-recommended",
     "plugin:@typescript-eslint/recommended",
     "plugin:nuxt/recommended",
+    "prettier"
   ],
   overrides: [],
   parserOptions: {
